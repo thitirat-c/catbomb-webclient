@@ -36,15 +36,15 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/0.2.4.loader.js";
+  var loaderUrl = buildUrl + "/teleg-ton-connect.loader.js";
   var config = {
-    dataUrl: buildUrl + "/0.2.4.data.unityweb",
-    frameworkUrl: buildUrl + "/0.2.4.framework.js.unityweb",
-    codeUrl: buildUrl + "/0.2.4.wasm.unityweb",
+    dataUrl: buildUrl + "/teleg-ton-connect.data",
+    frameworkUrl: buildUrl + "/teleg-ton-connect.framework.js",
+    codeUrl: buildUrl + "/teleg-ton-connect.wasm",
     streamingAssetsUrl: "StreamingAssets",
-    companyName: "DefaultCompany",
-    productName: "C# TonConnect",
-    productVersion: "1.0",
+    companyName: "varisoft",
+    productName: "catbomb",
+    productVersion: "0.1",
     showBanner: unityShowBanner,
   };
 
