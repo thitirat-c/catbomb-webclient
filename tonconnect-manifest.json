@@ -1,7 +1,1 @@
-{
-    "url": "https://thitirat-c.github.io/catbomb-webclient",                        
-    "name": "Catbomb test",                      
-    "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png",               
-    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt",     
-    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt" 
-  }
+{ "url": "https://thitirat-c.github.io/catbomb-webclient", "name": "Catbomb test", "iconUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/apple-touch-icon.png", "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/terms-of-use.txt", "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/privacy-policy.txt" }
