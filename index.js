@@ -38,9 +38,9 @@ window.addEventListener("load", function () {
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/unity-ton-wallet-0.2.3.loader.js";
   var config = {
-    dataUrl: buildUrl + "/unity-ton-wallet-0.2.3.data.br",
-    frameworkUrl: buildUrl + "/unity-ton-wallet-0.2.3.framework.js.br",
-    codeUrl: buildUrl + "/unity-ton-wallet-0.2.3.wasm.br",
+    dataUrl: buildUrl + "/unity-ton-wallet-0.2.3.data",
+    frameworkUrl: buildUrl + "/unity-ton-wallet-0.2.3.framework.js",
+    codeUrl: buildUrl + "/unity-ton-wallet-0.2.3.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "varisoft",
     productName: "unity-telegram-ton-csharp",
