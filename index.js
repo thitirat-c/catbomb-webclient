@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/teleg-ton-connect.loader.js";
+  var loaderUrl = buildUrl + "/teleg-ton-connect-editlink.loader.js";
   var config = {
-    dataUrl: buildUrl + "/teleg-ton-connect.data",
-    frameworkUrl: buildUrl + "/teleg-ton-connect.framework.js",
-    codeUrl: buildUrl + "/teleg-ton-connect.wasm",
+    dataUrl: buildUrl + "/teleg-ton-connect-editlink.data",
+    frameworkUrl: buildUrl + "/teleg-ton-connect-editlink.framework.js",
+    codeUrl: buildUrl + "/teleg-ton-connect-editlink.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "varisoft",
     productName: "catbomb",

@@ -1,9 +1,9 @@
 const cacheName = "varisoft-catbomb-0.1";
 const contentToCache = [
-    "Build/teleg-ton-connect.loader.js",
-    "Build/teleg-ton-connect.framework.js",
-    "Build/teleg-ton-connect.data",
-    "Build/teleg-ton-connect.wasm",
+    "Build/teleg-ton-connect-editlink.loader.js",
+    "Build/teleg-ton-connect-editlink.framework.js",
+    "Build/teleg-ton-connect-editlink.data",
+    "Build/teleg-ton-connect-editlink.wasm",
     "TemplateData/style.css"
 
 ];
