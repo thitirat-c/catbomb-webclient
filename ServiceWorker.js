@@ -1,9 +1,9 @@
 const cacheName = "varisoft-unity-telegram-ton-csharp-1.0";
 const contentToCache = [
     "Build/unity-ton-wallet-0.2.3.loader.js",
-    "Build/unity-ton-wallet-0.2.3.framework.js.br",
-    "Build/unity-ton-wallet-0.2.3.data.br",
-    "Build/unity-ton-wallet-0.2.3.wasm.br",
+    "Build/unity-ton-wallet-0.2.3.framework.js",
+    "Build/unity-ton-wallet-0.2.3.data",
+    "Build/unity-ton-wallet-0.2.3.wasm",
     "TemplateData/style.css"
 
 ];
