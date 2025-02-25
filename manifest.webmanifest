@@ -1,11 +1,11 @@
 {
-    "name": "catbomb",
-    "short_name": "catbomb",
+    "name": "C# TonConnect",
+    "short_name": "C# TonConnect",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
     "theme_color": "#000",
-    "description": "catbomb test desc",
+    "description": "",
     "icons": [{
       "src": "TemplateData/icons/unity-logo-dark.png",
       "sizes": "144x144",
